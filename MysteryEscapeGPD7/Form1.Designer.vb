@@ -121,9 +121,9 @@ Partial Class frmEscape
         '
         Me.lstGame.FormattingEnabled = True
         Me.lstGame.ItemHeight = 24
-        Me.lstGame.Location = New System.Drawing.Point(162, 207)
+        Me.lstGame.Location = New System.Drawing.Point(126, 207)
         Me.lstGame.Name = "lstGame"
-        Me.lstGame.Size = New System.Drawing.Size(120, 76)
+        Me.lstGame.Size = New System.Drawing.Size(206, 76)
         Me.lstGame.TabIndex = 5
         Me.lstGame.Visible = False
         '
